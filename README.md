@@ -36,11 +36,10 @@ The dataset includes real estate listings collected from Zameen.com with the fol
 
 ## 🧠 Model
 
-- **Algorithm**: Linear Regression (base model)  
+- **Algorithm**: Linear Regression, Logarithmic Regression
 - **Pipeline**: scikit-learn `Pipeline` with `ColumnTransformer`  
 - **Preprocessing**: One-hot encoding for categorical variables
 
-You can improve the model with Random Forests, XGBoost, or hyperparameter tuning for better accuracy.
 
 ---
 
